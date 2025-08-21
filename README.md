@@ -3,8 +3,6 @@
 A **Password Generator Application** built using Python that helps users create strong and random passwords.  
 This tool ensures better security by generating unpredictable passwords with customizable length and complexity.
 
----
-
 ## 🚀 Features
 - ⌨️ User specifies the desired password length  
 - 🔐 Generates secure random passwords  
@@ -12,13 +10,9 @@ This tool ensures better security by generating unpredictable passwords with cus
 - 🖥️ Displays the generated password on screen  
 - ⚡ Lightweight & simple to use  
 
----
-
 ## 🛠️ Technologies Used
 - **Python 3.x**
 - Built-in libraries: `random`, `string`
-
----
 
 ## 📂 Project Structure
 password_generator/
